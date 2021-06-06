@@ -1,0 +1,18 @@
+{
+  "name": "unlock-lock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unlock-lock.js",
+  "scripts": {
+    "start": "nodemon unlock-lock.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
